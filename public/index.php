@@ -7,6 +7,7 @@
  * @author   Taylor Otwell <taylor@laravel.com>
  */
 /**Clean laravel project */
+/** 16.06 reading  docs*/
 define('LARAVEL_START', microtime(true));
 
 /*
